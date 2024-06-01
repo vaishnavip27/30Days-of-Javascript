@@ -12,8 +12,9 @@ body {
   height: 500px;
   width: 700px;
   background-color: rgb(181, 149, 212);
-  margin-left: 300px;
-  margin-top: 100px;
+  margin-left: 380px;
+  margin-top: 110px;
+  border-radius: 12px;
 }
 
 button {
@@ -24,4 +25,15 @@ button {
   font-weight: 700;
   border-radius: 8px;
   border: none;
+  margin-left: 180px;
+  margin-top: 150px;
+  cursor: pointer;
+}
+
+span {
+  display: block;
+  height: 80px;
+  background-color: blanchedalmond;
+  padding: 1rem;
+  margin-top: 60px;
 }
